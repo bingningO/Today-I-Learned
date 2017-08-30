@@ -7,4 +7,4 @@ Its concept is to make idea be communicated and improved. Which is very impressi
 
 In fact, now the motivation in my company for bloging is not very high. The most important thing is that people writing a blog can't reseive any comments which makes them feel little meaningful to write it.
 
-easy like chat to communicate and comment.
+But **esa** performs as chat to communicate and comment easily.
