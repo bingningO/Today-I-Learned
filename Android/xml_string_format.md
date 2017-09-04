@@ -2,7 +2,7 @@
 
 Here want to set a string in TextView like: "**Today** I'm happy!"
 
-Althrough It can get the TextView and format the string in Java file, but a little complex.
+Althrough It can get the TextView and user [Spannable](https://developer.android.com/reference/android/text/Spannable.html), but a little complex.
 
 just use 
 ```
