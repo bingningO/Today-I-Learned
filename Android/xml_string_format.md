@@ -42,14 +42,14 @@ String buybooks = getString(R.string.action, "Tomorrow", 2);
 // result
 "Tomorrow I eat 2 apples!"
 ```
-* special format(also can use in Markdown)(only this three)  <b><i><u>
+* special format(also can use in Markdown)(only this three) 
 ```
 <b>bold text</b>
 <i>italic text</i>
 <u>underline text</u>
 ```
 
-p.s. but be careful that if you use *format(...)* or _getString(...)_ programmingly, the string will lose its format. 
+p.s. but be careful that if you use _format(...)_ or _getString(...)_ programmingly, the string will lose its format. 
 at this situation you need to use _Html.fromHtml(string)_.
 
 reference: [text:Html](https://developer.android.com/reference/android/text/Html.html)
