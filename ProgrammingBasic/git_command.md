@@ -10,7 +10,7 @@ to delete the latest commit
 
 ## branch
 ### delete
->$ git push -d <remote_name> <branch_name>
+>$ git push --delete <remote_name> <branch_name>
 
 to delete remote branch
 
