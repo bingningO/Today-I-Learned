@@ -1,0 +1,2 @@
+
+It does not prevent other threads from using the object. It doesn't prevent them from accessing the object's fields or, from updating its fields. The only thing that locking an object prevents is, it prevents other threads from locking the same object at the same time.
