@@ -1,0 +1,30 @@
+# What’s new in Android 
+#learning/newTech/googleIO
+
+## dark theme 
+* user can set
+
+## sharing 
+* new API, preview , copy 
+* really really fast
+
+## notification 
+* priority 
+* notification actions — directly reply …
+
+## Gesture Navigation 
+
+## more restrictions on calling private APIs 
+d.android.com/preview/non-sdk-q 
+
+## Android Runtime (ART)
+compile 
+startup improvement
+generational garbage collector 
+
+## kotlin 
+	* jetpack compose 
+	*next-generation UI toolkit* 
+		* unbundle 
+		* reactive 
+		* kotlin 
